@@ -11,10 +11,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.worldvectorlogo.com/logos/youtube-3.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://www.iconpacks.net/icons/2/free-twitter-logo-icon-2429-thumb.png" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" />][instagram]
+[<img align="left" alt="UtpalDas6 | YouTube" width="22px" src="https://cdn.worldvectorlogo.com/logos/youtube-3.svg" />][youtube]
+[<img align="left" alt="UtpalDas6 | Twitter" width="22px" src="https://www.iconpacks.net/icons/2/free-twitter-logo-icon-2429-thumb.png" />][twitter]
+[<img align="left" alt="UtpalDas6 | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
+[<img align="left" alt="UtpalDas6 | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" />][instagram]
+[<img align="left" alt="UtpalDas6 | Facebook" width="22px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ffreeicons.io%2Fsuper-tiny-icons%2Ffacebook-icon-28494&psig=AOvVaw0TsdRZ8p2zHMIZ6p5-etsl&ust=1628409744362000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKCtr5i5nvICFQAAAAAdAAAAABAD" />][facebook]
 
 <br />
 
