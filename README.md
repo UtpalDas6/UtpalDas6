@@ -11,7 +11,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="UtpalDas6 | YouTube" width="22px" src="https://cdn.worldvectorlogo.com/logos/youtube-3.svg" target="_blank"/>][youtube]
+[<img align="left" alt="UtpalDas6 | YouTube" width="22px" src="https://cdn.worldvectorlogo.com/logos/youtube-3.svg" target="_blank"/>][youtube]{:target="\_blank"}
 [<img align="left" alt="UtpalDas6 | Twitter" width="22px" src="https://www.iconpacks.net/icons/2/free-twitter-logo-icon-2429-thumb.png" target="_blank"/>][twitter]
 [<img align="left" alt="UtpalDas6 | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" target="_blank"/>][linkedin]
 [<img align="left" alt="UtpalDas6 | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" target="_blank"/>][instagram]
